@@ -1,0 +1,11 @@
+<h1> Alvin's Blog Website </h1>
+
+<ul>
+    <% @blogs.each do |blog| %>
+        <li> <%= link_to blog.title, blog_path(blog) %> </li>
+    <% end %>
+</ul>
+
+<br/>
+
+<%= link_to 'Add a new Blog Post', new_form_path %>
