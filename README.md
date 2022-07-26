@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Full-Stack web application that allows users to view, create, edit, and delete blog posts.
 
-Things you may want to cover:
+Technologies used: Ruby, HTML, PostgreSQL, Ruby on Rails, MVC, CRUD, REST
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
